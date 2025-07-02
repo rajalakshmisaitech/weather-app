@@ -1,3 +1,7 @@
+## Weather App
+
+A responsive web app to search and view real-time weather information for any city. Built with React and CSS, it displays current temperature, humidity, wind speed, and weather conditions in a clean, mobile-friendly interface.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
