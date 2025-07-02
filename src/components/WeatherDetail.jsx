@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import './WeatherDetail.css';
+import '../assets/css/WeatherDetail.css';
 
 const WeatherDetail = ({ fetchForecastData }) => {
   const { city } = useParams();

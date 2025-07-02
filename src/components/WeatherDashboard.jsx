@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import './WeatherDashboard.css';
+import '../assets/css/WeatherDashboard.css';
 
 const WeatherDashboard = ({ weatherData, loading, error }) => {
   const getWeatherIcon = (weatherCode) => {
